@@ -1,11 +1,11 @@
 # Site settings
-author: Gina Fedder
-title: 
+author: Gina
+title: TheGinaStruggles
 header-img: img/home-bg.png
 email: ginafedder@yahoo.com
-copyright_name: Gina Fedder
+copyright_name: Gina
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A snippet of my path to becoming a full blown web developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lafesh

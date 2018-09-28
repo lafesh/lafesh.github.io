@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "*#WhatIsHappening?!*"
+title:      "#WhatIsHappening?!"
 date:       2018-09-27 21:23:49 -0400
 permalink:  whatishappening
 ---

@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Video Game Review App 2.0"
+date:       2019-02-03 21:23:13 +0000
+permalink:  video_game_review_app_2_0
+---
+
+
+What a struggle this week has been! To be honest it did not even have that much to do with the actual coding but more so with my mental health. I believe I have mentioned before that starting a project is super hard. There are so many things that need to get done and you just do not know where to start. With this project it was so much more intense in my opinion. Throughout my entire journey of this program, I by far felt the least prepared for Javascript. Even though I did all the lessons I just had issues with understanding purposes of things (serialization), and figuring out what is what (javascript vanilla, jquery). After multiple breakdowns of me feeling unfit and not prepared whatsoever, I finally got myself together and asked for some help. I did as much coding as I could until I was stuck on every aspect. After talking to Enoch, I finally understand how to do this. Maybe it was not even the right way but for me it worked well. I started using the debugger and pry everywhere and all the time. I made sure to know what 'this' was and what data was coming in through get requests. If things that I needed did not come through I made sure to get them any way possible. There were still issues that I could not resolve but after my 1:1 and meeting with my team mate, I felt so much better and was able to finish up my project. Another thing that really bothered me mentally was having to destroy so many parts of my old rails application. I worked so hard on it and having to delete things that might have taking me hours to build was a little heartbreaking. Now of course it still has the same functionality but is way more fluid and easier to use. So overalll I am very happy with what I have created and am super proud that I figured it out especially after such a diffcult week. Off to the next adventure! 

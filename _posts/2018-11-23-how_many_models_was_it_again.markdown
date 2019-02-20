@@ -24,8 +24,6 @@ post '/login' do
         end
     end
 ```
-		
-		until I ran into problems and got stuck. 
 
 I created two models, one was a user that has many lists and the other was a list that belongs to a user. Once signed in, I wanted all the routes within to be written in the lists_controller for easy understanding. View files got created according to the routes and they worked perfectly. 
 A problem arose when I realized that I needed to put a set amount of list_item in a form to create a list. But since I, as the creator have no idea how many item a user wants in a list, I felt the need to fix this somehow. What I needed was to dynamically add input fields on the press of a button by a user. In comes jQuery. Even though it was not part of the requirements - Javascript and jQuery we would learn two months later - I needed to use it anyways. This app needed to be perfect and without that it just did not make sense. There is not that much documentation out there on how to implement jQuery into a Sinatra application. Most projects that use Javascript would be Rails instead. After a lot of trial and error I finally figured out where and how to put it in my code to make it work for a sinatra application. The layout file was the perfect place, and I implemented jQuery right there: 

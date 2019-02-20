@@ -7,7 +7,7 @@ permalink:  how_many_models_was_it_again
 
 Hello everybody! Welcome to another episode of the Gina Struggles.
 This month's project was all about building a complete Sinatra application with an MVC paradigm, ActiveRecord, has_many/belongs_to relationships, user information, validations and error messages. I decided to go with a list application that lets a user create, update and delete his own lists,  offers a community tab where you can see other user's lists and search for specific people's lists. 
-It was fairly straight forward to set up. I started  with creating the signup/login pages in a users_controller, security measures that would render flash messages instead of redirecting to an error page, like so:
+It was fairly straight forward to set up. I started  with creating the signup/login pages in a users_controller and security measures that would render flash messages instead of redirecting to an error page, like so:
 
 ```
 post '/login' do

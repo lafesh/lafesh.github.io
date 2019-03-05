@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Final Project - React/Redux Here I Come!"
-date:       2019-03-04 21:41:26 +0000
+date:       2019-03-04 16:41:27 -0500
 permalink:  the_final_project_-_react_redux_here_i_come
 ---
 
@@ -14,7 +14,8 @@ Debugger, as always, was my best friend in this project. If I ran into any issue
 
 The biggest issue I had was getting my fetch post request to work. I did not fully understand the significance of the headers key so it took me a little bit to figure out how to make this work. I also decided to add error handling for both my fetch requests so my charityActions file ended up looking like this:
 
-```export function fetchCharities() {
+```
+export function fetchCharities() {
     return (dispatch) => {
         dispatch({ type: 'LOADING_CHARITIES' })
         return fetch('http://localhost:5000/charities')

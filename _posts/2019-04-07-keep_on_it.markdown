@@ -1,0 +1,11 @@
+---
+layout: post
+title:      "Keep On It"
+date:       2019-04-08 00:01:05 +0000
+permalink:  keep_on_it
+---
+
+
+So the bootcamp is over. What to do next? Learn something new of course! As mentioned in my previous blog, I started using mongoDB which is great and exciting and new. But there is something else that is very important. Do not forget to keep coding in the languages that you already know. You do not want to risk forgetting anything so be sure to create a new Rails application with a Javascript, React front end. Try to do something that you have not done yet. Either way, it is crucial to keep coding. It is easy to forget the syntax of a specific language if not keeping up with it. So on my to do list is a new Rails application that uses mongoDB as the database instead of SQL. That way I am implementing something new while still using my already learned syntax. 
+
+Something more specific on mongoDB. I really like it because it is a NoSQL database which means that it does not have a set structure. Regular SQL languages are always tables that have a set amount of columns. You can add columns but not every entry might need that column or the entry might need a different column instead. NoSQL is not like a typical table. It is separate documents instead. So each entry can have its own columns and rows regardlass of what a different entry looks like. Therefore there are no empty columns. To me this is revolutionary and makes handling complicated data so much easier. I am glad I am diving into NoSQL databases and mongoDB has been working well for me so far. I definitely recomment looking into this just to see the different possibility that is out there. Depending on what project you are working on, it might be a great alternative!
